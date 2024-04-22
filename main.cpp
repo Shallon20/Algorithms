@@ -1,4 +1,4 @@
-// FULL NAME: SHALLON MARIA OMWONO
+// FULL NAME: OMWONO SHALLON MARIA
 // REGISTRATION NUMBER: 230ADB062
 
 // https://leetcode.com/problems/maximum-difference-between-increasing-elements/
@@ -39,7 +39,7 @@ int findMaxInc(const vector<int>& nums) {
 
 int main() {
     // files with inputs
-    ifstream inputFile("ints_10.txt");
+    ifstream inputFile("ints_10M.txt");
 
 
     // checks if the file fails to open and returns error
