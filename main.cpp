@@ -1,3 +1,10 @@
+// FULL NAME: SHALLON MARIA OMWONO
+// REGISTRATION NUMBER: 230ADB062
+
+// https://leetcode.com/problems/maximum-difference-between-increasing-elements/
+// https://cplusplus.com/doc/tutorial/files/
+//https://www.programiz.com/cpp-programming/vectors
+
 // C++ libraries
 #include <iostream>
 #include <fstream>
